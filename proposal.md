@@ -15,3 +15,6 @@ The Uncovering Cicada Wiki contains the What Happened Pages as resources, and an
 We are stuck on Liber Primus, a book filled with runes. We have Gematria Primus (https://uncovering-cicada.fandom.com/wiki/Gematria_Primus) to translate the runes, but there is at least one more layer of encryption on top of that.
 
 There is also a page on the deep web that we must find, the only verification for it being a hash that 3301 provided.
+
+## Where can I find the runes and/or the runes translated?
+this isnt complete
